@@ -1,2 +1,2 @@
-# hydrogenx86
-x86 version of hydrogen.exe
+# hydrogen86
+C GDI trojan by LeoLezury and red-wipet
